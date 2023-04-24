@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bsbarkur
 - 👀 I’m interested in accessibility, machine learning and decentralization.
-- 🌱 I’m currently learning GraphQL, deep learning and decentalized technologies.
+- 🌱 I’m currently learning GraphQL, deep learning and decentralized technologies.
 - 💞️ I’m looking to collaborate on various innovative ideas.
 
 <!---
