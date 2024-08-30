@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @bsbarkur
 - 👀 I’m interested in AI, machine learning, NLP and accessibility.
 - 💞️ I’m looking to collaborate on various innovative ideas.
 
